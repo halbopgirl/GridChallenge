@@ -1,0 +1,2 @@
+# GridChallenge
+Hackerrank Javascript Solution
